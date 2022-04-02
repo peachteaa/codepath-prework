@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![X](https://user-images.githubusercontent.com/102579076/161367553-b29bce72-eaeb-4334-888a-830bf22dac65.gif)
-![X][memory game loose](https://user-images.githubusercontent.com/102579076/161367562-10205648-1058-4717-b905-8f423f52fee1.gif)
+![X](https://user-images.githubusercontent.com/102579076/161367562-10205648-1058-4717-b905-8f423f52fee1.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
